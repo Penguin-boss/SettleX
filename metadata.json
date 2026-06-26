@@ -1,0 +1,6 @@
+{
+  "name": "SettleX",
+  "description": "Premium fintech app for splitting bills, tracking group expenses, and settling debts with UPI integration and AI-powered receipt scanning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
